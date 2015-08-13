@@ -1,2 +1,2 @@
 # createDollarAmount
-Function to return a number in dollar format
+Function to return a number in dollar format - to become plugin soon...
